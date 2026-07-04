@@ -64,3 +64,9 @@ Correlation matrix and boxplots generated successfully
 
 This project demonstrates the complete EDA pipeline including data cleaning, transformation, visualization, and feature engineering.  
 The dataset is now ready for machine learning model development.
+
+**👨‍💻 Author**
+
+Sri Varshini B
+
+B.Tech – Electronics and Communication Engineering (Specialization in Data Science)
